@@ -15,5 +15,8 @@ collection of thematic geospatial data about Central Africal Republic (2024-04)
 - [Border Crossing Points](CAF_marker_crossing_p_unhcr.geojson) is from [UNHCR GIS CORE DATABASE EXPORT TOOL](https://data.unhcr.org/en/geoservices/)
 - [UNHCR Warehouses](CAF_marker_warehouse_p_unhcr.geojson) is from [UNHCR GIS CORE DATABASE EXPORT TOOL](https://data.unhcr.org/en/geoservices/)
 
+## See also
+https://github.com/optgeo/ucdp-23.1-482
+
 ## License
 Please check the license of source data. All other work is under CC-0. 
